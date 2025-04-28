@@ -1,7 +1,6 @@
-# ▍[Youssef Sahli](www.youssefsahli.org)
-![youssef](https://github.com/user-attachments/assets/40191331-13de-4b0d-be7f-9ad0433921c8)
+<pre>°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸
 
-Botanical compounds · Typst · Racket · Pixel art
+                 Botanical compounds · Typst · Racket · Pixel art
 
-
-
+°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸
+</pre> 
